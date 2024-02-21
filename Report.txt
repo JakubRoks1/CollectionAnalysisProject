@@ -1,0 +1,24 @@
+Array: 
+insertEntry: Minimum: 1900ns, average: 4022ns, maximum: 89400ns.
+deleteEntryUsingName: Minimum: 2600ns, average: 4440ns, maximum: 53900ns.
+deleteEntryUsingExtension: Minimum: 2500ns, average: 10217ns, maximum: 95600ns.
+updateExtensionUsingName: Minimum: 800ns, average: 5462ns, maximum: 83100ns.
+lookupExtension: Minimum: 700ns, average: 4832ns, maximum: 62000ns.
+toArrayList: Minimum: 8200ns, average: 18700ns, maximum: 104400ns.
+
+Array list: 
+insertEntry: Minimum: 0ns, average: 117ns, maximum: 7300ns.
+deleteEntryUsingName: Minimum: 1000ns, average: 1045ns, maximum: 3200ns.
+deleteEntryUsingExtension: Minimum: 6800ns, average: 14180ns, maximum: 92100ns.
+updateExtensionUsingName: Minimum: 1700ns, average: 11482ns, maximum: 84800ns.
+lookupExtension: Minimum: 700ns, average: 11517ns, maximum: 90300ns.
+toArrayList: Minimum: 0ns, average: 92ns, maximum: 12300ns.
+
+Hash map: 
+insertEntry: Minimum: 100ns, average: 156ns, maximum: 5700ns.
+deleteEntryUsingName: Minimum: 100ns, average: 144ns, maximum: 9400ns.
+deleteEntryUsingExtension: Minimum: 1200ns, average: 3643ns, maximum: 140800ns.
+updateExtensionUsingName: Minimum: 100ns, average: 195ns, maximum: 11500ns.
+lookupExtension: Minimum: 100ns, average: 135ns, maximum: 4600ns.
+toArrayList: Minimum: 32300ns, average: 74469ns, maximum: 2569700ns.
+
